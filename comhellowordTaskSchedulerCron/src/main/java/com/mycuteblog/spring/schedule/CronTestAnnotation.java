@@ -29,7 +29,7 @@ public class CronTestAnnotation {
         System.out.println(new Date() + " This runs in a cron schedule");
     }
 
-    @Scheduled(cron = "10 * * * * *")
+    @Scheduled(cron = "${time.export.cron}" )
     public void cronVaribleTask(){
         System.out.println(new Date() + " This runs in a cronVaribleTask schedule");
     }

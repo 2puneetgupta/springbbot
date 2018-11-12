@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringBatchHelloWord/SpringBatchHelloWord.iml" filepath="$PROJECT_DIR$/SpringBatchHelloWord/SpringBatchHelloWord.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringReadProperty/SpringReadProperty.iml" filepath="$PROJECT_DIR$/SpringReadProperty/SpringReadProperty.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringRestService/SpringRestService.iml" filepath="$PROJECT_DIR$/SpringRestService/SpringRestService.iml" />
       <module fileurl="file://$PROJECT_DIR$/SwaggerHelloWord/SwaggerHelloWord.iml" filepath="$PROJECT_DIR$/SwaggerHelloWord/SwaggerHelloWord.iml" />

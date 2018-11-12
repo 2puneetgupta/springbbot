@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="comhellowordTaskSchedulerCron" />
+        <module name="SpringBatchHelloWord" />
         <module name="SpringReadProperty" />
         <module name="SpringRestService" />
         <module name="SwaggerHelloWord" />
@@ -14,7 +15,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="comhellowordTaskSchedulerCron" target="1.8" />
-      <module name="SpringReadProperty" target="1.5" />
+      <module name="SpringBatchHelloWord" target="1.6" />
+      <module name="SpringReadProperty" target="1.8" />
       <module name="SpringRestService" target="1.8" />
       <module name="SwaggerHelloWord" target="1.8" />
     </bytecodeTargetLevel>
