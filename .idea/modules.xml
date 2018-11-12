@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringReadProperty/SpringReadProperty.iml" filepath="$PROJECT_DIR$/SpringReadProperty/SpringReadProperty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringRestService/SpringRestService.iml" filepath="$PROJECT_DIR$/SpringRestService/SpringRestService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwaggerHelloWord/SwaggerHelloWord.iml" filepath="$PROJECT_DIR$/SwaggerHelloWord/SwaggerHelloWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comhellowordTaskSchedulerCron/comhellowordTaskSchedulerCron.iml" filepath="$PROJECT_DIR$/comhellowordTaskSchedulerCron/comhellowordTaskSchedulerCron.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springbbot.iml" filepath="$PROJECT_DIR$/.idea/springbbot.iml" />
+    </modules>
+  </component>
+</project>

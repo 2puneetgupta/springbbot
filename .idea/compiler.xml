@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="comhellowordTaskSchedulerCron" />
+        <module name="SpringReadProperty" />
+        <module name="SpringRestService" />
+        <module name="SwaggerHelloWord" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="comhellowordTaskSchedulerCron" target="1.8" />
+      <module name="SpringReadProperty" target="1.5" />
+      <module name="SpringRestService" target="1.8" />
+      <module name="SwaggerHelloWord" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
